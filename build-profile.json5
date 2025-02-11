@@ -6,9 +6,9 @@
         "type": "HarmonyOS",
         "material": {
           "certpath": "C:\\Users\\29676\\.ohos\\config\\default_psyPlayerHOS_NfhmSBYvDvMUo5UjT4va2XZcKzZZEOePiq9uvrsbTxQ=.cer",
-          "storePassword": "0000001BD1A54487E24C8E3D6BBD3F8161594D4DC138E34621C5A369D09836CF15023C6B8AAC2ABC94DB78",
+          "storePassword": "0000001BFAC82854F800E9969460B9CA4F29BDC7C7EB16BC368EF333B158C2C422B4940AA57B18758AD8C0",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B283E18620CCAA168AB31F110B9DFDF0660B4DE7AC297D33C6B142BDFFD053B49A78D9B240A2DDE",
+          "keyPassword": "0000001B05FFB49D0762F9287C3CBDCD0C293E159FCFBBC6170D54B317AA7F0BD62A78850ECE0578779218",
           "profile": "C:\\Users\\29676\\.ohos\\config\\default_psyPlayerHOS_NfhmSBYvDvMUo5UjT4va2XZcKzZZEOePiq9uvrsbTxQ=.p7b",
           "signAlg": "SHA256withECDSA",
           "storeFile": "C:\\Users\\29676\\.ohos\\config\\default_psyPlayerHOS_NfhmSBYvDvMUo5UjT4va2XZcKzZZEOePiq9uvrsbTxQ=.p12"
