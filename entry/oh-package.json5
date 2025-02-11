@@ -1,0 +1,10 @@
+{
+  "name": "psyplayer",
+  "version": "1.0.0",
+  "description": "gaojiaoyun psychology courses player for harmonyOS Next",
+  "main": "",
+  "author": "liwangqian",
+  "license": "GPLv3",
+  "dependencies": {}
+}
+
